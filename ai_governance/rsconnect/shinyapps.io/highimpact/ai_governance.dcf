@@ -1,0 +1,12 @@
+name: ai_governance
+title: ai_governance
+username:
+account: highimpact
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1823749
+bundleId: 2807410
+url: https://highimpact.shinyapps.io/ai_governance/
+when: 1581972736.35346
+asMultiple: FALSE
+asStatic: FALSE
